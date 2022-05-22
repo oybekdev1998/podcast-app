@@ -1,5 +1,5 @@
 ## 🎙 Podcast App
-
+***
 ### 🐧 Links
 ***
 * `Repository` [https://github.com/oybekdev1998/podcast-app](https://github.com/oybekdev1998/podcast-app)
@@ -12,20 +12,27 @@
 # Install
 npm i    #npm install
 ```
+
 ```
 #Email 
 oybek@mail.ru
 #Password 
 123456
 ```
+
+```
 #General
 npm run start
 ```
+
 ```
 #Deploy
 npm run build
 ```
+***
+
 ### 🐼 Рассмотренные темы
+
 #### JavaScript
 * Методы работы с массивами: `map`
 * Асинхронность: `Promise`
@@ -35,7 +42,6 @@ npm run build
 * Работа с API с использованием `Fetch`
 
 #### Вёрстка
-
 * CSS Custom Properties, изменение через JavaScript
 * MUI CSS(Material UI)
 
