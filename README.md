@@ -7,17 +7,15 @@
 * `oybekdev1998`[https://github.com/oybekdev1998](https://github.com/oybekdev1998)
 
 ***
-### Scripts and Commands
+### 🐶 Scripts and Commands
 ```
 # Install
 npm i    #npm install
 ```
 
 ```
-#Email 
-oybek@mail.ru
-#Password 
-123456
+#Email: oybek@mail.ru    #Password: 123456
+
 ```
 
 ```
