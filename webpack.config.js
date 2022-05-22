@@ -1,5 +1,4 @@
 const path = require('path')
-const webpack =require('webpack')
 const HTMLWebpackPlugin = require('html-webpack-plugin')
 const {CleanWebpackPlugin} = require('clean-webpack-plugin')
 
@@ -19,13 +18,7 @@ module.exports = {
     new HTMLWebpackPlugin({
       template: "./src/index.html"
     }),
-    new CleanWebpackPlugin(),
-    // new webpack.ProvidePlugin({
-    //   process: 'process/browser',
-    // }),
-    // new webpack.DefinePlugin({
-    //   'process.env': JSON.stringify(process.env)
-    // })
+    new CleanWebpackPlugin()
   ],
   resolve: {
     alias: {
